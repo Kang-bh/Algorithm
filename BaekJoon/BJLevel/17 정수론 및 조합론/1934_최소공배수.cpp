@@ -9,7 +9,7 @@ int main() {
 
 	for (int i = 0; i < T; i++) {
 		cin >> num1 >> num2;
-		
+
 		int low_num, least, greatest;
 		low_num = (num1 < num2) ? num1 : num2; // »ïÇ× ¿¬»êÀÚ
 
