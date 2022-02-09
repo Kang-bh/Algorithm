@@ -7,7 +7,7 @@ int main() {
 	cin >> T;
 	int num1, num2;
 
-	for (int i = 0; i << T; i++) {
+	for (int i = 0; i < T; i++) {
 		cin >> num1 >> num2;
 		
 		int low_num, least, greatest;
