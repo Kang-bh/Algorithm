@@ -4,8 +4,6 @@
 #include <string>
 using namespace std;
 
-// W, B ±âÁØ 
-
 int N, M;
 
 int min_count = 32;
