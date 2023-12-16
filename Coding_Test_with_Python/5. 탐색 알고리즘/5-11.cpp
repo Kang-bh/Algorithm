@@ -5,20 +5,16 @@ using namespace std;
 int n, m;
 int graph[201][201];
 
-// 이동할 네 가지 방향 정의 (상, 하, 좌, 우) 
 int direction_x[] = {-1, 1, 0, 0};
 int direction_y[] = {0, 0, -1, 1};
 
 int bfs(int x, int y) {
-    // 큐(Queue) 구현을 위해 queue 라이브러리 사용 
     queue<pair<int, int> > q;
     q.push({x, y});
-    // 큐가 빌 때까지 반복하기 
     while(!q.empty()) {
         int x = q.front().first;
         int y = q.front().second;
         q.pop();
-        // 현재 위치에서 4가지 방향으로의 위치 확인
         for (int i = 0; i < 4; i++) {
             int direction_x = x + direction_x[i];
             int direction_y = y + direction_y[i];
@@ -29,7 +25,7 @@ int bfs(int x, int y) {
 
             if (graph[direction_x][direction_y] == 1) {
                 graph[direction_x][direction_y] = graph[x][y] + 1;
-                q.push({nx, ny});
+                q.push({direction_x, direction_y});
             } 
         } 
     }
