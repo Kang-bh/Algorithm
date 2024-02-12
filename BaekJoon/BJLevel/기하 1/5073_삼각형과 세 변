@@ -1,0 +1,48 @@
+#include <iostream>
+using namespace std;
+
+bool checkPossibleTriangle(int len1, int len2, int len3) {
+    if (len1 >= len2 + len3) {
+        return false;
+    }
+    
+    if (len2 >= len1 + len3) {
+        return false;
+    }
+
+    if (len3 >= len1 + len2) {
+        return false;
+    }
+
+    return true;
+}
+
+void solve(int len1, int len2, int len3) {
+
+    int longlength = (len1 < len2) ? len2 : (len1 > len3) ? len1 : len3;
+
+    if (checkPossibleTriangle(len1, len2, len3)) {
+        if (len1 == len2 && len1 == len3 && len2 == len3) { 
+            cout << "Equilateral" << endl;
+        } else if ((len1 == len2 && len2 != len3) || (len2 == len3 && len3 != len1) || (len3 == len1 && len1 != len2)) {
+            cout << "Isosceles" << endl;
+        } else if (len1 != len2 && len2 != len3 && len1 != len3) {
+            cout << "Scalene" << endl;
+        } 
+    } else {
+        cout << "Invalid" << endl;
+    }
+}
+
+int main () {
+    int a, b, c;
+    while (true) {
+
+        cin >> a >> b >> c;
+        
+        if (a == 0 && b == 0 && c == 0)
+            break;
+
+        solve(a, b, c);
+    }
+}
