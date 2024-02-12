@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+void solve(int len1, int len2, int len3) {
+    if (len1 >= len2 + len3) {
+        cout << (len2 + len3) * 2 - 1 << endl;
+    } else if (len2 >= len1 + len3) {
+        cout << (len1 + len3) * 2 - 1 << endl;
+    } else if (len3 >= len1 + len2) {
+        cout << (len2 + len1) * 2 - 1 << endl;
+    } else {
+        cout << len1 + len2 + len3 << endl;
+    }
+
+}
+
+int main () {
+    int a, b, c;
+    
+    cin >> a >> b >> c;
+
+    solve(a, b, c);
+
+}
