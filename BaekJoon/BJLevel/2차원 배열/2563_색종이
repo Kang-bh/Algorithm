@@ -1,0 +1,43 @@
+
+#include <iostream>
+using namespace std;
+
+int N;
+bool area[101][101] = {false, }; // y x
+
+void checkAreaPoint(int x, int y) {
+    for (int i = y; i < y + 10; i++) {
+        for (int j = x; j < x + 10; j++) {
+            area[i][j] = true;
+        }
+    }
+}
+
+void input(int N) {
+    int x, y;
+    for(int i = 0; i < N; i++) {
+        cin >> x >> y;
+        checkAreaPoint(x, y);
+    }
+}
+
+void solve() {
+    int resultAreaCount = 0;
+    for(int i = 1; i < 101; i++) {
+        for (int j = 1; j < 101; j++) {
+            if(area[i][j])
+                resultAreaCount++;
+        }
+    }
+
+    cout << resultAreaCount << endl;
+}
+
+int main() {
+
+    cin >> N;
+    input(N);
+    solve();
+
+    return 0;
+}
