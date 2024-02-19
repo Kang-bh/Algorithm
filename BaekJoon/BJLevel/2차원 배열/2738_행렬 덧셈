@@ -1,0 +1,45 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int A[100][100];
+int B[100][100];
+
+void solve(int N, int M) {
+    
+    for(int i = 0; i < N; i++) {
+        for(int j = 0; j < M; j++) {
+            cout << A[i][j] + B[i][j] << " ";
+        }
+        cout << endl;
+    }
+}
+
+void input(int N, int M) {
+    int number;
+    for(int i = 0; i < N; i++) {
+        for(int j = 0; j < M; j++) {
+            cin >> number;
+            A[i][j] = number;
+        }
+    }
+
+    for(int i = 0; i < N; i++) {
+        for(int j = 0; j < M; j++) {
+            cin >> number;
+            B[i][j] = number;
+        }
+    }
+}
+
+int main() {
+
+    int N, M;
+    cin >> N >> M;
+
+    input(N, M);
+
+    solve(N, M)
+
+    return 0;
+}
