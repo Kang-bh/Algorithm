@@ -127,7 +127,11 @@ void solve2(int N, int M, int K) {
     int first = arr[0];
     int second = arr[1];
 
-    int result = second * (M / K) + first * (M / K) + first * (M % K);
+    // first * K + second 반복
+    int result = second * (M / (K + 1)) + first * (M - (M /(K + 1)));
+    cout << second * (M / (K + 1)) << endl;
+    cout << first * (M - (M /(K + 1))) << endl;
+    cout << result << endl;
 }
 
 int main() {
@@ -135,7 +139,7 @@ int main() {
 
     cin >> N >> M >> K;
 
-    solve1(N, M, K);
+    // solve1(N, M, K);
 
     solve2(N, M, K);
 
