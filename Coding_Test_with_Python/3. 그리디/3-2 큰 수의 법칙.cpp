@@ -82,11 +82,11 @@
 #include <algorithm>
 using namespace std;
 
-bool compare (int a, int b) {
+bool compare (int a, int b) { // 내림
     return (a > b);
 }
 
-void solve(int N, int M, int K) {
+void solve1(int N, int M, int K) {
 
     int * arr = new int[N];
     int result = 0, cnt = 0, num;
@@ -113,12 +113,31 @@ void solve(int N, int M, int K) {
     delete[] arr;
 }
 
+void solve2(int N, int M, int K) {
+    int *arr = new int[N];
+    int num;
+
+    for (int i = 0; i < N; i++) {
+        cin >> num;
+        arr[i] = num;
+    }
+
+    sort(arr, arr + N, compare);
+
+    int first = arr[0];
+    int second = arr[1];
+
+    int result = second * (M / K) + first * (M / K) + first * (M % K);
+}
+
 int main() {
     int N, M, K;
 
     cin >> N >> M >> K;
 
-    solve(N, M, K);
+    solve1(N, M, K);
+
+    solve2(N, M, K);
 
     return 0;
 }
