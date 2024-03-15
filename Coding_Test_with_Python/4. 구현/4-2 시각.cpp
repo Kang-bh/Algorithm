@@ -39,6 +39,31 @@ void solve(int N) {
     }
 }
 
+void solve2(int N) {
+    
+    int cnt = 0;
+    string time_format;
+    for(int hour = 0; hour < N + 1; hour++) {
+        for (int minute = 0; minute < 60; minute++) {
+            for (int second = 0; second < 60; second++) {
+                time_format = to_string(hour) + to_string(minute) + to_string(second);
+                if (time_format.find('3') != string::npos) {
+                    cnt++;
+                }
+            }
+        }
+    }
+    // solve 1 : 시간 제한 2초이기에 셀 수 있도록
+
+    // solve 2 : 개수 세기
+    // N = 3, 13 => 3600개
+    // 분 3, 13, 23, 30~39, 43, 53 -> 15개
+    // 나머지 : 분당 15개
+    cout << cnt << endl;
+
+}
+
+
 int main() {
 
     int N;
@@ -46,7 +71,10 @@ int main() {
 
     solve(N);
 
-    cout << answer << endl;
+    cout << "solve 1 : " << answer << endl;
+
+    cout << "solve 2 : "
+    solve2(N) << endl;
 
     return 0;
 }
