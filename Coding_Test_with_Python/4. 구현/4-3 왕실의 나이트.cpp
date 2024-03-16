@@ -97,4 +97,4 @@ int main() {
     solve2(input);
 
     return 0;
-}
+}   
