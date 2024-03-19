@@ -129,7 +129,7 @@ void print() {
     }
 }
 
-void solve() {
+void solve2() {
     arr = new int*[N];
     string row;
 
