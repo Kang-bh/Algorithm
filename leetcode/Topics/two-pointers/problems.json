@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:41:02.393Z",
+  "updatedAt": "2026-10-13T16:42:26.601Z",
   "problems": [
     {
       "frontendId": "696",
@@ -24,6 +24,26 @@
           "path": "leetcode/0696-count-binary-substrings/0696-count-binary-substrings.py",
           "sha": "0e50a52508a67beaadc0776520531e1a5053a054",
           "lastSyncedAt": "2026-10-13T16:41:02.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3218",
+      "title": "Minimum Cost for Cutting Cake I",
+      "slug": "minimum-cost-for-cutting-cake-i",
+      "problemName": "3218-minimum-cost-for-cutting-cake-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/",
+      "folderPath": "leetcode/3218-minimum-cost-for-cutting-cake-i/",
+      "readmePath": "leetcode/3218-minimum-cost-for-cutting-cake-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3218-minimum-cost-for-cutting-cake-i.py",
+          "path": "leetcode/3218-minimum-cost-for-cutting-cake-i/3218-minimum-cost-for-cutting-cake-i.py",
+          "sha": "15d3d8d4456497cab8bd829928cfbdefbcf7d337",
+          "lastSyncedAt": "2026-10-13T16:42:26.601Z"
         }
       ]
     },
