@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:40:25.388Z",
+  "updatedAt": "2026-10-13T16:40:48.779Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leetcode/0892-surface-area-of-3d-shapes/0892-surface-area-of-3d-shapes.py",
           "sha": "955e78f5d5e256d8867587705156f3af9a9ecfba",
           "lastSyncedAt": "2026-10-13T16:39:57.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1402",
+      "title": "Reducing Dishes",
+      "slug": "reducing-dishes",
+      "problemName": "1402-reducing-dishes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reducing-dishes/",
+      "folderPath": "leetcode/1402-reducing-dishes/",
+      "readmePath": "leetcode/1402-reducing-dishes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1402-reducing-dishes.py",
+          "path": "leetcode/1402-reducing-dishes/1402-reducing-dishes.py",
+          "sha": "a698ac6e6b48360d4ceaf63fdfb966a752583a16",
+          "lastSyncedAt": "2026-10-13T16:40:48.779Z"
         }
       ]
     },
