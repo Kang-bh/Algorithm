@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-13T16:39:26.703Z",
+  "updatedAt": "2026-10-13T16:41:25.987Z",
   "problems": [
+    {
+      "frontendId": "2244",
+      "title": "Minimum Rounds to Complete All Tasks",
+      "slug": "minimum-rounds-to-complete-all-tasks",
+      "problemName": "2244-minimum-rounds-to-complete-all-tasks",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/",
+      "folderPath": "leetcode/2244-minimum-rounds-to-complete-all-tasks/",
+      "readmePath": "leetcode/2244-minimum-rounds-to-complete-all-tasks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2244-minimum-rounds-to-complete-all-tasks.py",
+          "path": "leetcode/2244-minimum-rounds-to-complete-all-tasks/2244-minimum-rounds-to-complete-all-tasks.py",
+          "sha": "ea0fbea2e68f803c893c0ed8d6fd125a9cd38abe",
+          "lastSyncedAt": "2026-10-13T16:41:25.987Z"
+        }
+      ]
+    },
     {
       "frontendId": "3046",
       "title": "Split the Array",
