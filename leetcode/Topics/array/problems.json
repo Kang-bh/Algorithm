@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:42:26.601Z",
+  "updatedAt": "2026-10-13T16:42:55.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "leetcode/1402-reducing-dishes/1402-reducing-dishes.py",
           "sha": "a698ac6e6b48360d4ceaf63fdfb966a752583a16",
           "lastSyncedAt": "2026-10-13T16:40:48.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1560",
+      "title": "Most Visited Sector in  a Circular Track",
+      "slug": "most-visited-sector-in-a-circular-track",
+      "problemName": "1560-most-visited-sector-in-a-circular-track",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/",
+      "folderPath": "leetcode/1560-most-visited-sector-in-a-circular-track/",
+      "readmePath": "leetcode/1560-most-visited-sector-in-a-circular-track/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1560-most-visited-sector-in-a-circular-track.py",
+          "path": "leetcode/1560-most-visited-sector-in-a-circular-track/1560-most-visited-sector-in-a-circular-track.py",
+          "sha": "ccccd4a0578aa1ea3b6de32d03b569c9af053628",
+          "lastSyncedAt": "2026-10-13T16:42:55.304Z"
         }
       ]
     },
