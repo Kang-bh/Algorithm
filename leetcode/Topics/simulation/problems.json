@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:43:56.846Z",
+  "updatedAt": "2026-10-13T16:44:13.109Z",
   "problems": [
     {
       "frontendId": "657",
@@ -44,6 +44,26 @@
           "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
           "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
           "lastSyncedAt": "2026-10-13T16:37:40.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "999",
+      "title": "Available Captures for Rook",
+      "slug": "available-captures-for-rook",
+      "problemName": "0999-available-captures-for-rook",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/available-captures-for-rook/",
+      "folderPath": "leetcode/0999-available-captures-for-rook/",
+      "readmePath": "leetcode/0999-available-captures-for-rook/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0999-available-captures-for-rook.py",
+          "path": "leetcode/0999-available-captures-for-rook/0999-available-captures-for-rook.py",
+          "sha": "161d061f70657be289927e94a999eb63556780ea",
+          "lastSyncedAt": "2026-10-13T16:44:13.109Z"
         }
       ]
     },
