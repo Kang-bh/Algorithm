@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:42:38.582Z",
+  "updatedAt": "2026-10-13T16:42:55.304Z",
   "problems": [
     {
       "frontendId": "657",
@@ -44,6 +44,26 @@
           "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
           "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
           "lastSyncedAt": "2026-10-13T16:37:40.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1560",
+      "title": "Most Visited Sector in  a Circular Track",
+      "slug": "most-visited-sector-in-a-circular-track",
+      "problemName": "1560-most-visited-sector-in-a-circular-track",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/",
+      "folderPath": "leetcode/1560-most-visited-sector-in-a-circular-track/",
+      "readmePath": "leetcode/1560-most-visited-sector-in-a-circular-track/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1560-most-visited-sector-in-a-circular-track.py",
+          "path": "leetcode/1560-most-visited-sector-in-a-circular-track/1560-most-visited-sector-in-a-circular-track.py",
+          "sha": "ccccd4a0578aa1ea3b6de32d03b569c9af053628",
+          "lastSyncedAt": "2026-10-13T16:42:55.304Z"
         }
       ]
     },
