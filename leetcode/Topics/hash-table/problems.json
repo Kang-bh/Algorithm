@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:41:25.987Z",
+  "updatedAt": "2026-10-13T16:41:46.826Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "leetcode/3184-count-pairs-that-form-a-complete-day-i/3184-count-pairs-that-form-a-complete-day-i.py",
           "sha": "808296ae0feffad132c5b0fb9a7bc1481dd61f52",
           "lastSyncedAt": "2026-10-13T16:39:26.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3242",
+      "title": "Design Neighbor Sum Service",
+      "slug": "design-neighbor-sum-service",
+      "problemName": "3242-design-neighbor-sum-service",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-neighbor-sum-service/",
+      "folderPath": "leetcode/3242-design-neighbor-sum-service/",
+      "readmePath": "leetcode/3242-design-neighbor-sum-service/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3242-design-neighbor-sum-service.py",
+          "path": "leetcode/3242-design-neighbor-sum-service/3242-design-neighbor-sum-service.py",
+          "sha": "6aa13aa33a1130e7933b0629b3d145d43e33c0fc",
+          "lastSyncedAt": "2026-10-13T16:41:46.826Z"
         }
       ]
     },
