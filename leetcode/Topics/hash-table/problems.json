@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:41:46.826Z",
+  "updatedAt": "2026-10-13T16:42:10.884Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leetcode/2244-minimum-rounds-to-complete-all-tasks/2244-minimum-rounds-to-complete-all-tasks.py",
           "sha": "ea0fbea2e68f803c893c0ed8d6fd125a9cd38abe",
           "lastSyncedAt": "2026-10-13T16:41:25.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "problemName": "2273-find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+      "folderPath": "leetcode/2273-find-resultant-array-after-removing-anagrams/",
+      "readmePath": "leetcode/2273-find-resultant-array-after-removing-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2273-find-resultant-array-after-removing-anagrams.py",
+          "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
+          "sha": "add25550d951ba86c62d7464f1944ac5e453111b",
+          "lastSyncedAt": "2026-10-13T16:42:10.884Z"
         }
       ]
     },
