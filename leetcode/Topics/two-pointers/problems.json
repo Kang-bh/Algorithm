@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:34:47.371Z",
+  "updatedAt": "2026-10-13T16:41:02.393Z",
   "problems": [
+    {
+      "frontendId": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "problemName": "0696-count-binary-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings/",
+      "folderPath": "leetcode/0696-count-binary-substrings/",
+      "readmePath": "leetcode/0696-count-binary-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0696-count-binary-substrings.py",
+          "path": "leetcode/0696-count-binary-substrings/0696-count-binary-substrings.py",
+          "sha": "0e50a52508a67beaadc0776520531e1a5053a054",
+          "lastSyncedAt": "2026-10-13T16:41:02.393Z"
+        }
+      ]
+    },
     {
       "frontendId": "3643",
       "title": "Flip Square Submatrix Vertically",
