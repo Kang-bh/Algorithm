@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:43:38.546Z",
+  "updatedAt": "2026-10-13T16:43:56.846Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/3446-sort-matrix-by-diagonals/3446-sort-matrix-by-diagonals.py",
           "sha": "fe7c667fac358d58289788738ccafc8a1e64e536",
           "lastSyncedAt": "2026-10-13T16:39:16.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3477",
+      "title": "Fruits Into Baskets II",
+      "slug": "fruits-into-baskets-ii",
+      "problemName": "3477-fruits-into-baskets-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+      "folderPath": "leetcode/3477-fruits-into-baskets-ii/",
+      "readmePath": "leetcode/3477-fruits-into-baskets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3477-fruits-into-baskets-ii.py",
+          "path": "leetcode/3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.py",
+          "sha": "10881010e40191b64e3189177a522c74f1fbda90",
+          "lastSyncedAt": "2026-10-13T16:43:56.846Z"
         }
       ]
     },
