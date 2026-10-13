@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:40:48.779Z",
+  "updatedAt": "2026-10-13T16:42:10.884Z",
   "problems": [
     {
       "frontendId": "645",
@@ -64,6 +64,26 @@
           "path": "leetcode/1619-mean-of-array-after-removing-some-elements/1619-mean-of-array-after-removing-some-elements.py",
           "sha": "9b90891e3ae96c4a398b2e01e9093e5e3f3478be",
           "lastSyncedAt": "2026-10-13T16:37:54.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "problemName": "2273-find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+      "folderPath": "leetcode/2273-find-resultant-array-after-removing-anagrams/",
+      "readmePath": "leetcode/2273-find-resultant-array-after-removing-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2273-find-resultant-array-after-removing-anagrams.py",
+          "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
+          "sha": "add25550d951ba86c62d7464f1944ac5e453111b",
+          "lastSyncedAt": "2026-10-13T16:42:10.884Z"
         }
       ]
     },
