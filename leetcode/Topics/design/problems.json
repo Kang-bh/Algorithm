@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-13T16:41:46.826Z",
+  "updatedAt": "2026-10-13T16:43:03.699Z",
   "problems": [
+    {
+      "frontendId": "677",
+      "title": "Map Sum Pairs",
+      "slug": "map-sum-pairs",
+      "problemName": "0677-map-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/map-sum-pairs/",
+      "folderPath": "leetcode/0677-map-sum-pairs/",
+      "readmePath": "leetcode/0677-map-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0677-map-sum-pairs.py",
+          "path": "leetcode/0677-map-sum-pairs/0677-map-sum-pairs.py",
+          "sha": "f9d68e2f9980c4704597c5db34b5db487667c0fd",
+          "lastSyncedAt": "2026-10-13T16:43:03.699Z"
+        }
+      ]
+    },
     {
       "frontendId": "3242",
       "title": "Design Neighbor Sum Service",
