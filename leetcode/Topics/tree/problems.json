@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T16:39:44.430Z",
+  "updatedAt": "2026-10-13T16:40:39.307Z",
   "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "leetcode/0094-binary-tree-inorder-traversal/",
+      "readmePath": "leetcode/0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0094-binary-tree-inorder-traversal.py",
+          "path": "leetcode/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py",
+          "sha": "88fd7b74e656f5ad02bf672aa8aa16c93bdbc87a",
+          "lastSyncedAt": "2026-10-13T16:40:39.307Z"
+        }
+      ]
+    },
     {
       "frontendId": "117",
       "title": "Populating Next Right Pointers in Each Node II",
