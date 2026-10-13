@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:38:31.823Z",
+  "updatedAt": "2026-10-13T16:38:42.069Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "leetcode/3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.java",
           "sha": "df48fdf9a35b4ec801c68a6e0209d01d3b0b859b",
           "lastSyncedAt": "2026-10-13T16:35:48.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3487",
+      "title": "Maximum Unique Subarray Sum After Deletion",
+      "slug": "maximum-unique-subarray-sum-after-deletion",
+      "problemName": "3487-maximum-unique-subarray-sum-after-deletion",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/",
+      "folderPath": "leetcode/3487-maximum-unique-subarray-sum-after-deletion/",
+      "readmePath": "leetcode/3487-maximum-unique-subarray-sum-after-deletion/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3487-maximum-unique-subarray-sum-after-deletion.py",
+          "path": "leetcode/3487-maximum-unique-subarray-sum-after-deletion/3487-maximum-unique-subarray-sum-after-deletion.py",
+          "sha": "0994e3642a28dec708a7652a1c2dcf8558631a07",
+          "lastSyncedAt": "2026-10-13T16:38:42.069Z"
         }
       ]
     },
