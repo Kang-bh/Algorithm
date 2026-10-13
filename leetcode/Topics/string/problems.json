@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:41:19.506Z",
+  "updatedAt": "2026-10-13T16:41:40.485Z",
   "problems": [
     {
       "frontendId": "13",
@@ -164,6 +164,26 @@
           "path": "leetcode/2437-number-of-valid-clock-times/2437-number-of-valid-clock-times.py",
           "sha": "ff90935f58913e9cacd67686f1a3605d4c7c7c05",
           "lastSyncedAt": "2026-10-13T16:38:03.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3114",
+      "title": "Latest Time You Can Obtain After Replacing Characters",
+      "slug": "latest-time-you-can-obtain-after-replacing-characters",
+      "problemName": "3114-latest-time-you-can-obtain-after-replacing-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/",
+      "folderPath": "leetcode/3114-latest-time-you-can-obtain-after-replacing-characters/",
+      "readmePath": "leetcode/3114-latest-time-you-can-obtain-after-replacing-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3114-latest-time-you-can-obtain-after-replacing-characters.py",
+          "path": "leetcode/3114-latest-time-you-can-obtain-after-replacing-characters/3114-latest-time-you-can-obtain-after-replacing-characters.py",
+          "sha": "1f95bcc6539e72ddd9ae9c9547a1d9d96f3a3d4b",
+          "lastSyncedAt": "2026-10-13T16:41:40.485Z"
         }
       ]
     },
