@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-10-13T16:34:47.371Z",
+  "problems": [
+    {
+      "frontendId": "3643",
+      "title": "Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "problemName": "3643-flip-square-submatrix-vertically",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+      "folderPath": "leetcode/3643-flip-square-submatrix-vertically/",
+      "readmePath": "leetcode/3643-flip-square-submatrix-vertically/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3643-flip-square-submatrix-vertically.java",
+          "path": "leetcode/3643-flip-square-submatrix-vertically/3643-flip-square-submatrix-vertically.java",
+          "sha": "c451fdc937f0dd1e35bbb9ab317a2082f12b5bb2",
+          "lastSyncedAt": "2026-10-13T16:34:47.371Z"
+        }
+      ]
+    }
+  ]
+}
