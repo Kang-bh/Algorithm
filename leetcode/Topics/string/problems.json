@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:39:34.796Z",
+  "updatedAt": "2026-10-13T16:41:02.393Z",
   "problems": [
     {
       "frontendId": "13",
@@ -64,6 +64,26 @@
           "path": "leetcode/0657-robot-return-to-origin/0657-robot-return-to-origin.py",
           "sha": "2a32bbce4c9c1ab6a085a7fa0ca1fb47d4285619",
           "lastSyncedAt": "2026-10-13T16:37:48.400Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "problemName": "0696-count-binary-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings/",
+      "folderPath": "leetcode/0696-count-binary-substrings/",
+      "readmePath": "leetcode/0696-count-binary-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0696-count-binary-substrings.py",
+          "path": "leetcode/0696-count-binary-substrings/0696-count-binary-substrings.py",
+          "sha": "0e50a52508a67beaadc0776520531e1a5053a054",
+          "lastSyncedAt": "2026-10-13T16:41:02.393Z"
         }
       ]
     },
