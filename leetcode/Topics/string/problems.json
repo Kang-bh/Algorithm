@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:41:02.393Z",
+  "updatedAt": "2026-10-13T16:41:19.506Z",
   "problems": [
     {
       "frontendId": "13",
@@ -104,6 +104,26 @@
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.py",
           "sha": "513059617f698637cf6079bb9582515e5314abdc",
           "lastSyncedAt": "2026-10-13T16:39:34.796Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "leetcode/1773-count-items-matching-a-rule/",
+      "readmePath": "leetcode/1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1773-count-items-matching-a-rule.py",
+          "path": "leetcode/1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.py",
+          "sha": "7ea743bb26458a695b320ec9820038154a2d7a52",
+          "lastSyncedAt": "2026-10-13T16:41:19.506Z"
         }
       ]
     },
