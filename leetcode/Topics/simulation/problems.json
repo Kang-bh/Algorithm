@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:35:22.447Z",
+  "updatedAt": "2026-10-13T16:37:33.813Z",
   "problems": [
     {
       "frontendId": "3507",
@@ -24,6 +24,26 @@
           "path": "leetcode/3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.java",
           "sha": "2e56e0e007215e96ddd893b16cc77f85e91ec8e2",
           "lastSyncedAt": "2026-10-13T16:35:22.447Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3582",
+      "title": "Generate Tag for Video Caption",
+      "slug": "generate-tag-for-video-caption",
+      "problemName": "3582-generate-tag-for-video-caption",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-tag-for-video-caption/",
+      "folderPath": "leetcode/3582-generate-tag-for-video-caption/",
+      "readmePath": "leetcode/3582-generate-tag-for-video-caption/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3582-generate-tag-for-video-caption.java",
+          "path": "leetcode/3582-generate-tag-for-video-caption/3582-generate-tag-for-video-caption.java",
+          "sha": "e69612b25e89a3e4dfce01d5542ebfd7701ef924",
+          "lastSyncedAt": "2026-10-13T16:37:33.813Z"
         }
       ]
     }
