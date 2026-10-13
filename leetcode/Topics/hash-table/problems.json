@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:43:38.546Z",
+  "updatedAt": "2026-10-13T16:43:47.372Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/3242-design-neighbor-sum-service/3242-design-neighbor-sum-service.py",
           "sha": "6aa13aa33a1130e7933b0629b3d145d43e33c0fc",
           "lastSyncedAt": "2026-10-13T16:41:46.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3438",
+      "title": "Find Valid Pair of Adjacent Digits in String",
+      "slug": "find-valid-pair-of-adjacent-digits-in-string",
+      "problemName": "3438-find-valid-pair-of-adjacent-digits-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/",
+      "folderPath": "leetcode/3438-find-valid-pair-of-adjacent-digits-in-string/",
+      "readmePath": "leetcode/3438-find-valid-pair-of-adjacent-digits-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3438-find-valid-pair-of-adjacent-digits-in-string.py",
+          "path": "leetcode/3438-find-valid-pair-of-adjacent-digits-in-string/3438-find-valid-pair-of-adjacent-digits-in-string.py",
+          "sha": "b52aa9035ce6c96b690e081e0b763420cab24cac",
+          "lastSyncedAt": "2026-10-13T16:43:47.372Z"
         }
       ]
     },
