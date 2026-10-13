@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T16:39:16.370Z",
+  "updatedAt": "2026-10-13T16:39:57.104Z",
   "problems": [
+    {
+      "frontendId": "892",
+      "title": "Surface Area of 3D Shapes",
+      "slug": "surface-area-of-3d-shapes",
+      "problemName": "0892-surface-area-of-3d-shapes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/surface-area-of-3d-shapes/",
+      "folderPath": "leetcode/0892-surface-area-of-3d-shapes/",
+      "readmePath": "leetcode/0892-surface-area-of-3d-shapes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0892-surface-area-of-3d-shapes.py",
+          "path": "leetcode/0892-surface-area-of-3d-shapes/0892-surface-area-of-3d-shapes.py",
+          "sha": "955e78f5d5e256d8867587705156f3af9a9ecfba",
+          "lastSyncedAt": "2026-10-13T16:39:57.104Z"
+        }
+      ]
+    },
     {
       "frontendId": "3446",
       "title": "Sort Matrix by Diagonals",
