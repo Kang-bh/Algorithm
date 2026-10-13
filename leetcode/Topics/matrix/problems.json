@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T16:34:47.371Z",
+  "updatedAt": "2026-10-13T16:39:16.370Z",
   "problems": [
+    {
+      "frontendId": "3446",
+      "title": "Sort Matrix by Diagonals",
+      "slug": "sort-matrix-by-diagonals",
+      "problemName": "3446-sort-matrix-by-diagonals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-matrix-by-diagonals/",
+      "folderPath": "leetcode/3446-sort-matrix-by-diagonals/",
+      "readmePath": "leetcode/3446-sort-matrix-by-diagonals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3446-sort-matrix-by-diagonals.py",
+          "path": "leetcode/3446-sort-matrix-by-diagonals/3446-sort-matrix-by-diagonals.py",
+          "sha": "fe7c667fac358d58289788738ccafc8a1e64e536",
+          "lastSyncedAt": "2026-10-13T16:39:16.370Z"
+        }
+      ]
+    },
     {
       "frontendId": "3643",
       "title": "Flip Square Submatrix Vertically",
