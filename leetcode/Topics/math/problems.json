@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T16:41:10.107Z",
+  "updatedAt": "2026-10-13T16:41:36.060Z",
   "problems": [
     {
       "frontendId": "9",
@@ -64,6 +64,26 @@
           "path": "leetcode/0892-surface-area-of-3d-shapes/0892-surface-area-of-3d-shapes.py",
           "sha": "955e78f5d5e256d8867587705156f3af9a9ecfba",
           "lastSyncedAt": "2026-10-13T16:39:57.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3270",
+      "title": "Find the Key of the Numbers",
+      "slug": "find-the-key-of-the-numbers",
+      "problemName": "3270-find-the-key-of-the-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-key-of-the-numbers/",
+      "folderPath": "leetcode/3270-find-the-key-of-the-numbers/",
+      "readmePath": "leetcode/3270-find-the-key-of-the-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3270-find-the-key-of-the-numbers.py",
+          "path": "leetcode/3270-find-the-key-of-the-numbers/3270-find-the-key-of-the-numbers.py",
+          "sha": "be02fe81bc2d1a18d8c9ecf4270b9de00920c651",
+          "lastSyncedAt": "2026-10-13T16:41:36.060Z"
         }
       ]
     },
