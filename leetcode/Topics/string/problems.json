@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:41:40.485Z",
+  "updatedAt": "2026-10-13T16:42:10.884Z",
   "problems": [
     {
       "frontendId": "13",
@@ -144,6 +144,26 @@
           "path": "leetcode/2194-cells-in-a-range-on-an-excel-sheet/2194-cells-in-a-range-on-an-excel-sheet.py",
           "sha": "d878214dee96ca3e1f45716fd8171e599c5288d2",
           "lastSyncedAt": "2026-10-13T16:39:02.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "problemName": "2273-find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+      "folderPath": "leetcode/2273-find-resultant-array-after-removing-anagrams/",
+      "readmePath": "leetcode/2273-find-resultant-array-after-removing-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2273-find-resultant-array-after-removing-anagrams.py",
+          "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
+          "sha": "add25550d951ba86c62d7464f1944ac5e453111b",
+          "lastSyncedAt": "2026-10-13T16:42:10.884Z"
         }
       ]
     },
