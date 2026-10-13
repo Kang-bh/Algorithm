@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T16:40:25.388Z",
+  "updatedAt": "2026-10-13T16:41:46.826Z",
   "problems": [
     {
       "frontendId": "200",
@@ -44,6 +44,26 @@
           "path": "leetcode/0892-surface-area-of-3d-shapes/0892-surface-area-of-3d-shapes.py",
           "sha": "955e78f5d5e256d8867587705156f3af9a9ecfba",
           "lastSyncedAt": "2026-10-13T16:39:57.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3242",
+      "title": "Design Neighbor Sum Service",
+      "slug": "design-neighbor-sum-service",
+      "problemName": "3242-design-neighbor-sum-service",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-neighbor-sum-service/",
+      "folderPath": "leetcode/3242-design-neighbor-sum-service/",
+      "readmePath": "leetcode/3242-design-neighbor-sum-service/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3242-design-neighbor-sum-service.py",
+          "path": "leetcode/3242-design-neighbor-sum-service/3242-design-neighbor-sum-service.py",
+          "sha": "6aa13aa33a1130e7933b0629b3d145d43e33c0fc",
+          "lastSyncedAt": "2026-10-13T16:41:46.826Z"
         }
       ]
     },
