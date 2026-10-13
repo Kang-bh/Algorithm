@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:38:12.122Z",
+  "updatedAt": "2026-10-13T16:38:21.771Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "leetcode/1619-mean-of-array-after-removing-some-elements/1619-mean-of-array-after-removing-some-elements.py",
           "sha": "9b90891e3ae96c4a398b2e01e9093e5e3f3478be",
           "lastSyncedAt": "2026-10-13T16:37:54.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2826",
+      "title": "Sorting Three Groups",
+      "slug": "sorting-three-groups",
+      "problemName": "2826-sorting-three-groups",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sorting-three-groups/",
+      "folderPath": "leetcode/2826-sorting-three-groups/",
+      "readmePath": "leetcode/2826-sorting-three-groups/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2826-sorting-three-groups.py",
+          "path": "leetcode/2826-sorting-three-groups/2826-sorting-three-groups.py",
+          "sha": "67db2ae19ee77ec28540784f2b6ed0063d9beb4a",
+          "lastSyncedAt": "2026-10-13T16:38:21.771Z"
         }
       ]
     },
