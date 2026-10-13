@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:39:57.104Z",
+  "updatedAt": "2026-10-13T16:40:25.388Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "leetcode/0001-two-sum/0001-two-sum.java",
           "sha": "fa45d1a32f84000c4fd4951b97996c298f7e190f",
           "lastSyncedAt": "2026-10-13T16:37:26.966Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "leetcode/0200-number-of-islands/",
+      "readmePath": "leetcode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "leetcode/0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "a813c2806bea8a85fadf7ed258f0e32e1ea79493",
+          "lastSyncedAt": "2026-10-13T16:40:25.388Z"
         }
       ]
     },
