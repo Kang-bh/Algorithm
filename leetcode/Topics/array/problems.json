@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:44:13.109Z",
+  "updatedAt": "2026-10-13T16:44:21.801Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
           "sha": "add25550d951ba86c62d7464f1944ac5e453111b",
           "lastSyncedAt": "2026-10-13T16:42:10.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2615",
+      "title": "Sum of Distances",
+      "slug": "sum-of-distances",
+      "problemName": "2615-sum-of-distances",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances/",
+      "folderPath": "leetcode/2615-sum-of-distances/",
+      "readmePath": "leetcode/2615-sum-of-distances/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2615-sum-of-distances.py",
+          "path": "leetcode/2615-sum-of-distances/2615-sum-of-distances.py",
+          "sha": "36691406d422ee4999c519ff791486cb1919665a",
+          "lastSyncedAt": "2026-10-13T16:44:21.801Z"
         }
       ]
     },
