@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:38:52.334Z",
+  "updatedAt": "2026-10-13T16:39:08.590Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
           "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
           "lastSyncedAt": "2026-10-13T16:37:40.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2956",
+      "title": "Find Common Elements Between Two Arrays",
+      "slug": "find-common-elements-between-two-arrays",
+      "problemName": "2956-find-common-elements-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-elements-between-two-arrays/",
+      "folderPath": "leetcode/2956-find-common-elements-between-two-arrays/",
+      "readmePath": "leetcode/2956-find-common-elements-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2956-find-common-elements-between-two-arrays.py",
+          "path": "leetcode/2956-find-common-elements-between-two-arrays/2956-find-common-elements-between-two-arrays.py",
+          "sha": "85241ab05d4c2b080bd088fcbcc418f514bbc1fe",
+          "lastSyncedAt": "2026-10-13T16:39:08.590Z"
         }
       ]
     },
