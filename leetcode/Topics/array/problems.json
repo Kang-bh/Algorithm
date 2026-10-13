@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:42:10.884Z",
+  "updatedAt": "2026-10-13T16:42:26.601Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "leetcode/3184-count-pairs-that-form-a-complete-day-i/3184-count-pairs-that-form-a-complete-day-i.py",
           "sha": "808296ae0feffad132c5b0fb9a7bc1481dd61f52",
           "lastSyncedAt": "2026-10-13T16:39:26.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3218",
+      "title": "Minimum Cost for Cutting Cake I",
+      "slug": "minimum-cost-for-cutting-cake-i",
+      "problemName": "3218-minimum-cost-for-cutting-cake-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/",
+      "folderPath": "leetcode/3218-minimum-cost-for-cutting-cake-i/",
+      "readmePath": "leetcode/3218-minimum-cost-for-cutting-cake-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3218-minimum-cost-for-cutting-cake-i.py",
+          "path": "leetcode/3218-minimum-cost-for-cutting-cake-i/3218-minimum-cost-for-cutting-cake-i.py",
+          "sha": "15d3d8d4456497cab8bd829928cfbdefbcf7d337",
+          "lastSyncedAt": "2026-10-13T16:42:26.601Z"
         }
       ]
     },
