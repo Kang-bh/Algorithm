@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:42:10.884Z",
+  "updatedAt": "2026-10-13T16:42:45.275Z",
   "problems": [
     {
       "frontendId": "13",
@@ -44,6 +44,26 @@
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "59e49eb776d174e50837fdc7f7a85c5978e42b55",
           "lastSyncedAt": "2026-10-13T16:36:49.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "331",
+      "title": "Verify Preorder Serialization of a Binary Tree",
+      "slug": "verify-preorder-serialization-of-a-binary-tree",
+      "problemName": "0331-verify-preorder-serialization-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+      "folderPath": "leetcode/0331-verify-preorder-serialization-of-a-binary-tree/",
+      "readmePath": "leetcode/0331-verify-preorder-serialization-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0331-verify-preorder-serialization-of-a-binary-tree.py",
+          "path": "leetcode/0331-verify-preorder-serialization-of-a-binary-tree/0331-verify-preorder-serialization-of-a-binary-tree.py",
+          "sha": "7cf7da0002b90637038d10d5d888c0726c9d2591",
+          "lastSyncedAt": "2026-10-13T16:42:45.275Z"
         }
       ]
     },
