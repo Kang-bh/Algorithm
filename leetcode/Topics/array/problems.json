@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:41:59.593Z",
+  "updatedAt": "2026-10-13T16:42:04.974Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "leetcode/3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.java",
           "sha": "df48fdf9a35b4ec801c68a6e0209d01d3b0b859b",
           "lastSyncedAt": "2026-10-13T16:35:48.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3427",
+      "title": "Sum of Variable Length Subarrays",
+      "slug": "sum-of-variable-length-subarrays",
+      "problemName": "3427-sum-of-variable-length-subarrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
+      "folderPath": "leetcode/3427-sum-of-variable-length-subarrays/",
+      "readmePath": "leetcode/3427-sum-of-variable-length-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3427-sum-of-variable-length-subarrays.py",
+          "path": "leetcode/3427-sum-of-variable-length-subarrays/3427-sum-of-variable-length-subarrays.py",
+          "sha": "15835b9ebbd0dcb18356dd0e623919d6a2b6c780",
+          "lastSyncedAt": "2026-10-13T16:42:04.974Z"
         }
       ]
     },
