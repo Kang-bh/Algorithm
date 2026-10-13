@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T16:43:15.913Z",
+  "updatedAt": "2026-10-13T16:44:13.109Z",
   "problems": [
     {
       "frontendId": "200",
@@ -44,6 +44,26 @@
           "path": "leetcode/0892-surface-area-of-3d-shapes/0892-surface-area-of-3d-shapes.py",
           "sha": "955e78f5d5e256d8867587705156f3af9a9ecfba",
           "lastSyncedAt": "2026-10-13T16:39:57.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "999",
+      "title": "Available Captures for Rook",
+      "slug": "available-captures-for-rook",
+      "problemName": "0999-available-captures-for-rook",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/available-captures-for-rook/",
+      "folderPath": "leetcode/0999-available-captures-for-rook/",
+      "readmePath": "leetcode/0999-available-captures-for-rook/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0999-available-captures-for-rook.py",
+          "path": "leetcode/0999-available-captures-for-rook/0999-available-captures-for-rook.py",
+          "sha": "161d061f70657be289927e94a999eb63556780ea",
+          "lastSyncedAt": "2026-10-13T16:44:13.109Z"
         }
       ]
     },
