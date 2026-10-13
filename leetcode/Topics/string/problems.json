@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:36:49.152Z",
+  "updatedAt": "2026-10-13T16:37:33.813Z",
   "problems": [
     {
       "frontendId": "13",
@@ -64,6 +64,26 @@
           "path": "leetcode/3210-find-the-encrypted-string/3210-find-the-encrypted-string.java",
           "sha": "ef8b4491393103e13f67b44f4e976482e0103889",
           "lastSyncedAt": "2026-10-13T16:35:53.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3582",
+      "title": "Generate Tag for Video Caption",
+      "slug": "generate-tag-for-video-caption",
+      "problemName": "3582-generate-tag-for-video-caption",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-tag-for-video-caption/",
+      "folderPath": "leetcode/3582-generate-tag-for-video-caption/",
+      "readmePath": "leetcode/3582-generate-tag-for-video-caption/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3582-generate-tag-for-video-caption.java",
+          "path": "leetcode/3582-generate-tag-for-video-caption/3582-generate-tag-for-video-caption.java",
+          "sha": "e69612b25e89a3e4dfce01d5542ebfd7701ef924",
+          "lastSyncedAt": "2026-10-13T16:37:33.813Z"
         }
       ]
     },
