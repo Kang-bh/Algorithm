@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-10-13T16:36:23.234Z",
+  "problems": [
+    {
+      "frontendId": "3707",
+      "title": "Equal Score Substrings",
+      "slug": "equal-score-substrings",
+      "problemName": "3707-equal-score-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-score-substrings/",
+      "folderPath": "leetcode/3707-equal-score-substrings/",
+      "readmePath": "leetcode/3707-equal-score-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3707-equal-score-substrings.java",
+          "path": "leetcode/3707-equal-score-substrings/3707-equal-score-substrings.java",
+          "sha": "b1510d05f541160aa66666f537453d3fa8259205",
+          "lastSyncedAt": "2026-10-13T16:36:23.234Z"
+        }
+      ]
+    }
+  ]
+}
