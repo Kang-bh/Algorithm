@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:37:33.813Z",
+  "updatedAt": "2026-10-13T16:37:40.435Z",
   "problems": [
+    {
+      "frontendId": "874",
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "problemName": "0874-walking-robot-simulation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
+      "folderPath": "leetcode/0874-walking-robot-simulation/",
+      "readmePath": "leetcode/0874-walking-robot-simulation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0874-walking-robot-simulation.py",
+          "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
+          "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
+          "lastSyncedAt": "2026-10-13T16:37:40.435Z"
+        }
+      ]
+    },
     {
       "frontendId": "3507",
       "title": "Minimum Pair Removal to Sort Array I",
