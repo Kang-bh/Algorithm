@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:43:47.372Z",
+  "updatedAt": "2026-10-13T16:44:30.562Z",
   "problems": [
     {
       "frontendId": "13",
@@ -224,6 +224,26 @@
           "path": "leetcode/2437-number-of-valid-clock-times/2437-number-of-valid-clock-times.py",
           "sha": "ff90935f58913e9cacd67686f1a3605d4c7c7c05",
           "lastSyncedAt": "2026-10-13T16:38:03.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3042",
+      "title": "Count Prefix and Suffix Pairs I",
+      "slug": "count-prefix-and-suffix-pairs-i",
+      "problemName": "3042-count-prefix-and-suffix-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/",
+      "folderPath": "leetcode/3042-count-prefix-and-suffix-pairs-i/",
+      "readmePath": "leetcode/3042-count-prefix-and-suffix-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3042-count-prefix-and-suffix-pairs-i.py",
+          "path": "leetcode/3042-count-prefix-and-suffix-pairs-i/3042-count-prefix-and-suffix-pairs-i.py",
+          "sha": "ee6b2d17baf8a92159f4a9c8546b6ef0e7d396a9",
+          "lastSyncedAt": "2026-10-13T16:44:30.562Z"
         }
       ]
     },
