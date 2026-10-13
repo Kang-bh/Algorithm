@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:38:21.771Z",
+  "updatedAt": "2026-10-13T16:38:31.823Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leetcode/2859-sum-of-values-at-indices-with-k-set-bits/2859-sum-of-values-at-indices-with-k-set-bits.py",
           "sha": "4f63c9e342f9920b454ae1664e83bd16a31ceec1",
           "lastSyncedAt": "2026-10-13T16:38:12.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3046",
+      "title": "Split the Array",
+      "slug": "split-the-array",
+      "problemName": "3046-split-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-the-array/",
+      "folderPath": "leetcode/3046-split-the-array/",
+      "readmePath": "leetcode/3046-split-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3046-split-the-array.py",
+          "path": "leetcode/3046-split-the-array/3046-split-the-array.py",
+          "sha": "e67ad4c3447f3acd519cd697f9206852fc1f9a95",
+          "lastSyncedAt": "2026-10-13T16:38:31.823Z"
         }
       ]
     },
