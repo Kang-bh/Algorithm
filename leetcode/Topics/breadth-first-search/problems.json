@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T16:39:44.430Z",
+  "updatedAt": "2026-10-13T16:40:10.530Z",
   "problems": [
     {
       "frontendId": "117",
@@ -44,6 +44,26 @@
           "path": "leetcode/0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.py",
           "sha": "4d67f735bfae4dd5fcc6f7b53a28ccf722f8f21a",
           "lastSyncedAt": "2026-10-13T16:36:31.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "leetcode/0547-number-of-provinces/",
+      "readmePath": "leetcode/0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0547-number-of-provinces.py",
+          "path": "leetcode/0547-number-of-provinces/0547-number-of-provinces.py",
+          "sha": "e16e60ee2a96e1d68ce92ac9ad9694f9f3d74bd0",
+          "lastSyncedAt": "2026-10-13T16:40:10.530Z"
         }
       ]
     }
