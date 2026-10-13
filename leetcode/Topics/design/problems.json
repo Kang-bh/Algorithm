@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-10-13T16:41:46.826Z",
+  "problems": [
+    {
+      "frontendId": "3242",
+      "title": "Design Neighbor Sum Service",
+      "slug": "design-neighbor-sum-service",
+      "problemName": "3242-design-neighbor-sum-service",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-neighbor-sum-service/",
+      "folderPath": "leetcode/3242-design-neighbor-sum-service/",
+      "readmePath": "leetcode/3242-design-neighbor-sum-service/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3242-design-neighbor-sum-service.py",
+          "path": "leetcode/3242-design-neighbor-sum-service/3242-design-neighbor-sum-service.py",
+          "sha": "6aa13aa33a1130e7933b0629b3d145d43e33c0fc",
+          "lastSyncedAt": "2026-10-13T16:41:46.826Z"
+        }
+      ]
+    }
+  ]
+}
