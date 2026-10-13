@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:37:26.966Z",
+  "updatedAt": "2026-10-13T16:37:40.435Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.java",
           "sha": "d97e3ad0605e8bd7c3278baf64fb9c8f6978e317",
           "lastSyncedAt": "2026-10-13T16:37:05.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "874",
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "problemName": "0874-walking-robot-simulation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
+      "folderPath": "leetcode/0874-walking-robot-simulation/",
+      "readmePath": "leetcode/0874-walking-robot-simulation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0874-walking-robot-simulation.py",
+          "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
+          "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
+          "lastSyncedAt": "2026-10-13T16:37:40.435Z"
         }
       ]
     },
