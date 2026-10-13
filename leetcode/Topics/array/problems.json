@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:44:21.801Z",
+  "updatedAt": "2026-10-13T16:44:30.562Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "a583021defa8bff311c2951c83e2343e2dc32fcf",
           "lastSyncedAt": "2026-10-13T16:43:38.546Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3042",
+      "title": "Count Prefix and Suffix Pairs I",
+      "slug": "count-prefix-and-suffix-pairs-i",
+      "problemName": "3042-count-prefix-and-suffix-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/",
+      "folderPath": "leetcode/3042-count-prefix-and-suffix-pairs-i/",
+      "readmePath": "leetcode/3042-count-prefix-and-suffix-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3042-count-prefix-and-suffix-pairs-i.py",
+          "path": "leetcode/3042-count-prefix-and-suffix-pairs-i/3042-count-prefix-and-suffix-pairs-i.py",
+          "sha": "ee6b2d17baf8a92159f4a9c8546b6ef0e7d396a9",
+          "lastSyncedAt": "2026-10-13T16:44:30.562Z"
         }
       ]
     },
