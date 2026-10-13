@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:42:10.884Z",
+  "updatedAt": "2026-10-13T16:43:03.699Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
           "sha": "abe3c6f22ea305a194cf94b3923ac0aef17795c8",
           "lastSyncedAt": "2026-10-13T16:38:52.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "677",
+      "title": "Map Sum Pairs",
+      "slug": "map-sum-pairs",
+      "problemName": "0677-map-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/map-sum-pairs/",
+      "folderPath": "leetcode/0677-map-sum-pairs/",
+      "readmePath": "leetcode/0677-map-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0677-map-sum-pairs.py",
+          "path": "leetcode/0677-map-sum-pairs/0677-map-sum-pairs.py",
+          "sha": "f9d68e2f9980c4704597c5db34b5db487667c0fd",
+          "lastSyncedAt": "2026-10-13T16:43:03.699Z"
         }
       ]
     },
