@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:37:05.600Z",
+  "updatedAt": "2026-10-13T16:37:26.966Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "leetcode/0001-two-sum/",
+      "readmePath": "leetcode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "leetcode/0001-two-sum/0001-two-sum.java",
+          "sha": "fa45d1a32f84000c4fd4951b97996c298f7e190f",
+          "lastSyncedAt": "2026-10-13T16:37:26.966Z"
+        }
+      ]
+    },
     {
       "frontendId": "13",
       "title": "Roman to Integer",
