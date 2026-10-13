@@ -5,8 +5,28 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-13T16:40:10.530Z",
+  "updatedAt": "2026-10-13T16:40:25.388Z",
   "problems": [
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "leetcode/0200-number-of-islands/",
+      "readmePath": "leetcode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "leetcode/0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "a813c2806bea8a85fadf7ed258f0e32e1ea79493",
+          "lastSyncedAt": "2026-10-13T16:40:25.388Z"
+        }
+      ]
+    },
     {
       "frontendId": "547",
       "title": "Number of Provinces",
