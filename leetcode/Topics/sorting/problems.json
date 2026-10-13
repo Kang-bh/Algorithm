@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:38:52.334Z",
+  "updatedAt": "2026-10-13T16:39:16.370Z",
   "problems": [
     {
       "frontendId": "645",
@@ -44,6 +44,26 @@
           "path": "leetcode/1619-mean-of-array-after-removing-some-elements/1619-mean-of-array-after-removing-some-elements.py",
           "sha": "9b90891e3ae96c4a398b2e01e9093e5e3f3478be",
           "lastSyncedAt": "2026-10-13T16:37:54.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3446",
+      "title": "Sort Matrix by Diagonals",
+      "slug": "sort-matrix-by-diagonals",
+      "problemName": "3446-sort-matrix-by-diagonals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-matrix-by-diagonals/",
+      "folderPath": "leetcode/3446-sort-matrix-by-diagonals/",
+      "readmePath": "leetcode/3446-sort-matrix-by-diagonals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3446-sort-matrix-by-diagonals.py",
+          "path": "leetcode/3446-sort-matrix-by-diagonals/3446-sort-matrix-by-diagonals.py",
+          "sha": "fe7c667fac358d58289788738ccafc8a1e64e536",
+          "lastSyncedAt": "2026-10-13T16:39:16.370Z"
         }
       ]
     }
