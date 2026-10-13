@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T16:44:21.801Z",
+  "updatedAt": "2026-10-13T16:44:51.255Z",
   "problems": [
+    {
+      "frontendId": "2587",
+      "title": "Rearrange Array to Maximize Prefix Score",
+      "slug": "rearrange-array-to-maximize-prefix-score",
+      "problemName": "2587-rearrange-array-to-maximize-prefix-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/",
+      "folderPath": "leetcode/2587-rearrange-array-to-maximize-prefix-score/",
+      "readmePath": "leetcode/2587-rearrange-array-to-maximize-prefix-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2587-rearrange-array-to-maximize-prefix-score.py",
+          "path": "leetcode/2587-rearrange-array-to-maximize-prefix-score/2587-rearrange-array-to-maximize-prefix-score.py",
+          "sha": "2c022c719292408942e82f0e0736766a8776838b",
+          "lastSyncedAt": "2026-10-13T16:44:51.255Z"
+        }
+      ]
+    },
     {
       "frontendId": "2615",
       "title": "Sum of Distances",
