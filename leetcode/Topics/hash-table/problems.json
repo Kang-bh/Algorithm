@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:35:58.973Z",
+  "updatedAt": "2026-10-13T16:37:05.600Z",
   "problems": [
     {
       "frontendId": "13",
@@ -24,6 +24,26 @@
           "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.java",
           "sha": "64b6f79ae8120e7f2492ff72788288532fced981",
           "lastSyncedAt": "2026-10-13T16:35:02.138Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "leetcode/0496-next-greater-element-i/",
+      "readmePath": "leetcode/0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0496-next-greater-element-i.java",
+          "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.java",
+          "sha": "d97e3ad0605e8bd7c3278baf64fb9c8f6978e317",
+          "lastSyncedAt": "2026-10-13T16:37:05.600Z"
         }
       ]
     },
