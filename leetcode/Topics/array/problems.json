@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:38:52.334Z",
+  "updatedAt": "2026-10-13T16:39:08.590Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "leetcode/2859-sum-of-values-at-indices-with-k-set-bits/2859-sum-of-values-at-indices-with-k-set-bits.py",
           "sha": "4f63c9e342f9920b454ae1664e83bd16a31ceec1",
           "lastSyncedAt": "2026-10-13T16:38:12.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2956",
+      "title": "Find Common Elements Between Two Arrays",
+      "slug": "find-common-elements-between-two-arrays",
+      "problemName": "2956-find-common-elements-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-elements-between-two-arrays/",
+      "folderPath": "leetcode/2956-find-common-elements-between-two-arrays/",
+      "readmePath": "leetcode/2956-find-common-elements-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2956-find-common-elements-between-two-arrays.py",
+          "path": "leetcode/2956-find-common-elements-between-two-arrays/2956-find-common-elements-between-two-arrays.py",
+          "sha": "85241ab05d4c2b080bd088fcbcc418f514bbc1fe",
+          "lastSyncedAt": "2026-10-13T16:39:08.590Z"
         }
       ]
     },
