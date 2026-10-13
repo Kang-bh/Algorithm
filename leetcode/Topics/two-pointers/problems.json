@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:42:26.601Z",
+  "updatedAt": "2026-10-13T16:43:25.916Z",
   "problems": [
     {
       "frontendId": "696",
@@ -24,6 +24,26 @@
           "path": "leetcode/0696-count-binary-substrings/0696-count-binary-substrings.py",
           "sha": "0e50a52508a67beaadc0776520531e1a5053a054",
           "lastSyncedAt": "2026-10-13T16:41:02.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1237",
+      "title": "Find Positive Integer Solution for a Given Equation",
+      "slug": "find-positive-integer-solution-for-a-given-equation",
+      "problemName": "1237-find-positive-integer-solution-for-a-given-equation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/",
+      "folderPath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/",
+      "readmePath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1237-find-positive-integer-solution-for-a-given-equation.py",
+          "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.py",
+          "sha": "4b31a346c31b6fba7169a10c1deea12736cb6159",
+          "lastSyncedAt": "2026-10-13T16:43:25.916Z"
         }
       ]
     },
