@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:38:42.069Z",
+  "updatedAt": "2026-10-13T16:38:52.334Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.java",
           "sha": "d97e3ad0605e8bd7c3278baf64fb9c8f6978e317",
           "lastSyncedAt": "2026-10-13T16:37:05.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "leetcode/0645-set-mismatch/",
+      "readmePath": "leetcode/0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0645-set-mismatch.py",
+          "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
+          "sha": "abe3c6f22ea305a194cf94b3923ac0aef17795c8",
+          "lastSyncedAt": "2026-10-13T16:38:52.334Z"
         }
       ]
     },
