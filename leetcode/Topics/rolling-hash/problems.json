@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "rolling-hash",
+    "name": "Rolling Hash",
+    "tagId": "56598"
+  },
+  "updatedAt": "2026-10-13T16:44:30.562Z",
+  "problems": [
+    {
+      "frontendId": "3042",
+      "title": "Count Prefix and Suffix Pairs I",
+      "slug": "count-prefix-and-suffix-pairs-i",
+      "problemName": "3042-count-prefix-and-suffix-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/",
+      "folderPath": "leetcode/3042-count-prefix-and-suffix-pairs-i/",
+      "readmePath": "leetcode/3042-count-prefix-and-suffix-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3042-count-prefix-and-suffix-pairs-i.py",
+          "path": "leetcode/3042-count-prefix-and-suffix-pairs-i/3042-count-prefix-and-suffix-pairs-i.py",
+          "sha": "ee6b2d17baf8a92159f4a9c8546b6ef0e7d396a9",
+          "lastSyncedAt": "2026-10-13T16:44:30.562Z"
+        }
+      ]
+    }
+  ]
+}
