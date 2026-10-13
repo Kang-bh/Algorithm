@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:36:31.889Z",
+  "updatedAt": "2026-10-13T16:39:44.430Z",
   "problems": [
+    {
+      "frontendId": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "problemName": "0117-populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+      "folderPath": "leetcode/0117-populating-next-right-pointers-in-each-node-ii/",
+      "readmePath": "leetcode/0117-populating-next-right-pointers-in-each-node-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0117-populating-next-right-pointers-in-each-node-ii.py",
+          "path": "leetcode/0117-populating-next-right-pointers-in-each-node-ii/0117-populating-next-right-pointers-in-each-node-ii.py",
+          "sha": "28c8fb4dba829f98885ccf8aba00cf093df899e0",
+          "lastSyncedAt": "2026-10-13T16:39:44.430Z"
+        }
+      ]
+    },
     {
       "frontendId": "450",
       "title": "Delete Node in a BST",
