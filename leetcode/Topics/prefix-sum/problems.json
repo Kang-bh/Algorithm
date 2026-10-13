@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T16:36:23.234Z",
+  "updatedAt": "2026-10-13T16:41:10.107Z",
   "problems": [
+    {
+      "frontendId": "3432",
+      "title": "Count Partitions with Even Sum Difference",
+      "slug": "count-partitions-with-even-sum-difference",
+      "problemName": "3432-count-partitions-with-even-sum-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+      "folderPath": "leetcode/3432-count-partitions-with-even-sum-difference/",
+      "readmePath": "leetcode/3432-count-partitions-with-even-sum-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3432-count-partitions-with-even-sum-difference.py",
+          "path": "leetcode/3432-count-partitions-with-even-sum-difference/3432-count-partitions-with-even-sum-difference.py",
+          "sha": "922962d9c812e6fba770807d63cfadee5a7f71a2",
+          "lastSyncedAt": "2026-10-13T16:41:10.107Z"
+        }
+      ]
+    },
     {
       "frontendId": "3707",
       "title": "Equal Score Substrings",
