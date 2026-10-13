@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:41:46.826Z",
+  "updatedAt": "2026-10-13T16:42:38.582Z",
   "problems": [
     {
       "frontendId": "657",
@@ -44,6 +44,26 @@
           "path": "leetcode/0874-walking-robot-simulation/0874-walking-robot-simulation.py",
           "sha": "2cc0de29fef7e3b6bb05613105e6685973b50c94",
           "lastSyncedAt": "2026-10-13T16:37:40.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3178",
+      "title": "Find the Child Who Has the Ball After K Seconds",
+      "slug": "find-the-child-who-has-the-ball-after-k-seconds",
+      "problemName": "3178-find-the-child-who-has-the-ball-after-k-seconds",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/",
+      "folderPath": "leetcode/3178-find-the-child-who-has-the-ball-after-k-seconds/",
+      "readmePath": "leetcode/3178-find-the-child-who-has-the-ball-after-k-seconds/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3178-find-the-child-who-has-the-ball-after-k-seconds.py",
+          "path": "leetcode/3178-find-the-child-who-has-the-ball-after-k-seconds/3178-find-the-child-who-has-the-ball-after-k-seconds.py",
+          "sha": "49d195fdd8d30af1357b3e1e9b1a64b79e82fdcf",
+          "lastSyncedAt": "2026-10-13T16:42:38.582Z"
         }
       ]
     },
